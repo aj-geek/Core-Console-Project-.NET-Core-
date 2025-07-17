@@ -1,0 +1,15 @@
+/Users/red/Desktop/NetCore/coreConsoleProject/bin/Debug/net8.0/coreConsoleProject
+/Users/red/Desktop/NetCore/coreConsoleProject/bin/Debug/net8.0/coreConsoleProject.deps.json
+/Users/red/Desktop/NetCore/coreConsoleProject/bin/Debug/net8.0/coreConsoleProject.runtimeconfig.json
+/Users/red/Desktop/NetCore/coreConsoleProject/bin/Debug/net8.0/coreConsoleProject.dll
+/Users/red/Desktop/NetCore/coreConsoleProject/bin/Debug/net8.0/coreConsoleProject.pdb
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.AssemblyInfoInputs.cache
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.AssemblyInfo.cs
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.csproj.CoreCompileInputs.cache
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.sourcelink.json
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.dll
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/refint/coreConsoleProject.dll
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.pdb
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.genruntimeconfig.cache
+/Users/red/Desktop/NetCore/coreConsoleProject/obj/Debug/net8.0/ref/coreConsoleProject.dll
